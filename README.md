@@ -1,2 +1,3 @@
-# genix-store-screenshots
-Current Progress Screenshots of Genix Store.
+# Genix Store Current Progress Screenshots
+
+
